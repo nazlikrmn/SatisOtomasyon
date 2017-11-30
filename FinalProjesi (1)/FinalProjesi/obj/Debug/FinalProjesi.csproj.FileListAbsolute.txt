@@ -1,0 +1,133 @@
+c:\users\toshiba_\documents\visual studio 2015\Projects\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Documents\Visual Studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.pdb
+c:\users\toshiba_\documents\visual studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form3.resources
+c:\users\toshiba_\documents\visual studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+c:\users\toshiba_\documents\visual studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form5.resources
+c:\users\toshiba_\documents\visual studio 2015\Projects\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+G:\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.exe
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.pdb
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form5.resources
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form7.resources
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+G:\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+G:\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe
+G:\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form5.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Form7.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Müsteriİslemleri.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.Stokİslem.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.pdb
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form5.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form7.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Müsteriİslemleri.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Stokİslem.resources
+C:\Users\user\Downloads\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.pdb
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form5.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form7.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Müsteriİslemleri.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Stokİslem.resources
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\user\Desktop\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form5.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Müsteriİslemleri.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Stokİslem.resources
+C:\Users\TOSHIBA_\Desktop\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Müsteriİslemleri.resources
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Stokİslem.resources
+C:\Users\TOSHIBA_\Desktop\etikek4\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+G:\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.exe
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.pdb
+G:\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe
+G:\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.pdb
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Müsteriİslemleri.resources
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Stokİslem.resources
+G:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
+E:\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.exe
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.pdb
+E:\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.exe
+E:\FinalProjesi (1)\FinalProjesi\bin\Debug\FinalProjesi.pdb
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csprojResolveAssemblyReference.cache
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form2.resources
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form4.resources
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Form6.resources
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Müsteriİslemleri.resources
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.Stokİslem.resources
+E:\FinalProjesi (1)\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.Cache
